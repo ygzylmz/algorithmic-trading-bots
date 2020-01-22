@@ -2,4 +2,4 @@
 
 Bu notebook'ta çeşitli makine öğrenmesi metodları kullanılarak algorithmic trading yapılmaya çalışılmaktadır.
 
-Hazırlayan: Mustafa Yağız Yılmaz
+**Hazırlayan:** Mustafa Yağız Yılmaz
